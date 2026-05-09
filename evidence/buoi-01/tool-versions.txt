@@ -1,0 +1,11 @@
+# Tool versions
+Sat May  9 21:14:59 SEAST 2026
+
+git version 2.52.0.windows.1
+Docker version 29.1.3, build f52814d
+Docker Compose version v2.40.3-desktop.1
+v24.15.0
+11.12.1
+Python 3.13.9
+./scripts/collect_session01_evidence.sh: line 15: pip: command not found
+./scripts/collect_session01_evidence.sh: line 15: pip3: command not found
